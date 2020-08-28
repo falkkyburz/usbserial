@@ -26,10 +26,10 @@ I also included the [interactive html BOM.](usbserial.html)
 
 ## Datasheets
 
-* [Si8642BB-B-IS1](www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf)
-* [FT230XS](www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf)
-* [MI0603J601R-10](www.laird.com/sites/default/files/2019-04/MI0603J601R-10_0.pdf)
-* [WE 629105150521](www.we-online.com/catalog/en/COM_MICRO_SMT_TYPE_B_HORIZONTAL_HIGH_CURRENT/)
+* [Si8642BB-B-IS1](https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf)
+* [FT230XS](https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf)
+* [MI0603J601R-10](https://www.laird.com/sites/default/files/2019-04/MI0603J601R-10_0.pdf)
+* [WE 629105150521](https://www.we-online.com/catalog/en/COM_MICRO_SMT_TYPE_B_HORIZONTAL_HIGH_CURRENT/)
 
 ## Render
 
