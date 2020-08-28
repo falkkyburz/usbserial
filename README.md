@@ -1,12 +1,12 @@
 # usbserial
 
-This is a USB to serial (UART) converter employing the FTDI FT230XS chip. I 
+This is a USB to serial (UART) converter employing the FTDI FT230XS chip designed in KiCad. I 
 included an optional digital isolator for noisy environments or when galvanic 
-isolation os required. 
+isolation is required. 
 
 ## BOM
 
-[Interactive BOM](usbserial.html)
+I also included the [interactive html BOM.](usbserial.html)
 
 | References     | Value                     | Footprint | Quantity |
 |----------------|---------------------------|-----------|----------|
@@ -24,10 +24,17 @@ isolation os required.
 | J1             | Header 4pin, 2.54mm       | -         | 1        |
 | J2             | USB-Micro WE 629105150521 | -         | 1        |
 
+## Datasheets
+
+* [Si8642BB-B-IS1](www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf)
+* [FT230XS](www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf)
+* [MI0603J601R-10](www.laird.com/sites/default/files/2019-04/MI0603J601R-10_0.pdf)
+* [WE 629105150521](www.we-online.com/catalog/en/COM_MICRO_SMT_TYPE_B_HORIZONTAL_HIGH_CURRENT/)
+
 ## Render
 
 ![usbserial render](usbserial.png)
 
-## Image
+## Prototype
 
 ToDo
