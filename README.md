@@ -1,12 +1,15 @@
-# usbserial
+# USB to Serial Converter
 
 This is a USB to serial (UART) converter employing the FTDI FT230XS chip designed in KiCad. I 
 included an optional digital isolator for noisy environments or when galvanic 
 isolation is required. 
 
+![usbserial render](usbserial.png)
+
+
 ## BOM
 
-I also included the [interactive html BOM.](usbserial.html)
+I also included the interactive html BOM (usbserial.html) 
 
 | References     | Value                     | Footprint | Quantity |
 |----------------|---------------------------|-----------|----------|
@@ -31,10 +34,6 @@ I also included the [interactive html BOM.](usbserial.html)
 * [MI0603J601R-10](https://www.laird.com/sites/default/files/2019-04/MI0603J601R-10_0.pdf)
 * [WE 629105150521](https://www.we-online.com/catalog/en/COM_MICRO_SMT_TYPE_B_HORIZONTAL_HIGH_CURRENT/)
 
-## Render
-
-![usbserial render](usbserial.png)
-
 ## Prototype
 
-ToDo
+![usbserial prototype](usbserial_prototype.png)
