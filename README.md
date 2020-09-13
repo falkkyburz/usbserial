@@ -36,4 +36,4 @@ I also included the interactive html BOM (usbserial.html)
 
 ## Prototype
 
-![usbserial prototype](usbserial_prototype.png)
+![usbserial prototype](usbserial_prototype.jpg)
